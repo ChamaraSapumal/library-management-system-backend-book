@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/library
+    password: sapumal2003#
+    username: root
+  jpa:
+    hibernate:
+      ddl-auto: update
